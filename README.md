@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **react,nodejs,express**
 
-- 📫 How to reach me **jijojohnweb@gmail.com**
+- 📫 How to reach me **jijojohnf7@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
